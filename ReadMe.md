@@ -20,6 +20,6 @@ Will be using this feature in the future.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+You can type in a sentence and if you have any mispelled words, the program will show.
 
 ### Any optional sections
