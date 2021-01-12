@@ -16,7 +16,7 @@ This application is for checking spelling when you type something.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Will be using this feature in the future.
 
 ## Usage
 
