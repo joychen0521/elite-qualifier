@@ -12,7 +12,7 @@ I built an auto correct program
 
 ## Background
 
-This is why this application exists.
+This application is for checking spelling when you type something.
 
 ## Install
 
