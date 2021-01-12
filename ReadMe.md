@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+I built an auto correct program
 
 ## Table of Contents
 
