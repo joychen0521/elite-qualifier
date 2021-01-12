@@ -4,11 +4,11 @@ I built an auto correct program
 
 ## Table of Contents
 
-- [Background](#background)
+- [This was a project for Code2College](#background)
 
-- [Install](#install)
+- [I wrote some simple code to build an auto correct program](#install)
 
-- [Usage](#usage)
+- [You can use this code to check your spelling](#usage)
 
 ## Background
 
