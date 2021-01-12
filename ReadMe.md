@@ -6,7 +6,7 @@ I built an auto correct program
 
 - [This was a project for Code2College](#background)
 
-- [I wrote some simple code to build an auto correct program](#install)
+- [Expect to use repl install](#install)
 
 - [You can use this code to check your spelling](#usage)
 
