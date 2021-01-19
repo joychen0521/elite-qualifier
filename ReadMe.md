@@ -24,3 +24,6 @@ You can type in a sentence and if you have any mispelled words, the program will
 
 ### Any optional sections
 This is another section.
+
+### ReadMe edit branch
+This sentence is a part of the readme edit branch.
