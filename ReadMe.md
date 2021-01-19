@@ -25,5 +25,9 @@ You can type in a sentence and if you have any mispelled words, the program will
 ### Any optional sections
 This is another section.
 
-### ReadMe edit branch
-This sentence is a part of the readme edit branch.
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
