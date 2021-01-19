@@ -23,3 +23,9 @@ Will be using this feature in the future.
 You can type in a sentence and if you have any mispelled words, the program will show.
 
 ### Any optional sections
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
